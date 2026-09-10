@@ -1,0 +1,15 @@
+# Live contracts, review evidence, and generated reports
+Inputs/
+Review Required/
+Passed/
+_Review Evidence/
+Contract-Review-Log*.csv
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
